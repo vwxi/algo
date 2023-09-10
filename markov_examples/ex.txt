@@ -1,0 +1,1 @@
+once users are already friends you can get other friends to be hosts and distribute data that way, but that's a pretty trusted thing i dont know, maybe i could have the same thing for friend requests except the need for a handshake makes it seem to me right now that you'd only be able to have 1 friend request relay friend?? guh idk

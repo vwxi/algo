@@ -1,0 +1,47 @@
+These rules and guidelines are adapted from public club, Huge thanks to Daax for allowing us to use this.
+
+Welcome to Back Engineering, an online community for those interested in engaging with other enthusiastic, motivated people to have intelligent and constructive discussion regarding programming, security, computer engineering, reverse-engineering, machine learning, CPU architectures, hardware hacking/engineering, and related fields.
+
+We try to maintain an academic and professional atmosphere where we keep conversations consistently on-topic. In light of this, please move all discussion unrelated to the above topics to the general channel, a private chat, or another Discord server whenever possible. This is a place for discussion of advanced topics in computer science, security, technology, engineering, and mathematics.
+
+If you know anyone else that would enjoy having in-depth discussion of these topics, please send them a direct invitation to the server: https://discord.gg/4MRqNyhVKJ
+
+Thank you for joining. We hope you enjoy your stay.
+
+----- 
+Image
+The server's channels are organized into general discussion, specific topics, and miscellaneous. A description of each of the general and miscellaneous channels follows.
+
+all-engineering  — General discussion of reverse engineering, security, and technology topics. This is considered an on-topic channel. Consistent discussion of an advanced topic may be asked to be taken to the appropriate topic-specific channel. All questions directly related to reverse-engineering, programming, computer-engineering are welcome, but it is expected that you have checked the materials listed in the resources channel or at least consulted Google before making your inquiry.
+
+research-and-links — A curated list of introductory and advanced resources for those looking to improve their understanding of advanced topics. If you know of a valuable resource that belongs there, please feel free to mention it in the channel. We appreciate your contribution.
+
+general —  All discussion unrelated to programming, reverse engineering, architectures, etc. This is the servers ONE and ONLY general channel. Any discussion in other channels unrelated to their topic will be promptly directed here and/or deleted. Remember you are always welcome to take conversations to a private chat or another server. They exist for that reason.
+
+vc-context — Text chat supplement for use during voice chats. This channel is not meant for use outside of active voice calls. 
+Image
+1. The administrators reserve the right to exercise their powers for any reason they deem fit. Your welcome here is not unconditional, violating the rules below may result in removal from the server.
+
+2. What many consider censorship of speech is actually curation of content. By deleting messages and banning members, we are not disenfranchising anyone of their right to free public speech. We are asserting our right to curate the content of our private server as we see fit. What is intended is to keep channels from devolving into random discussion that has no correlation to their envisioned purpose, and to keep the discussions consistent.
+
+3. No racism/sexism/ism/homophobia/trans-phobia/phobia. If a form of prejudice or bigotry is pervasive enough to be assigned its own word in the dictionary, then it should go without saying that it is unacceptable.
+4. The main purpose of this server is to create an environment for academics, professionals, and security enthusiasts to discuss advanced topics in programming, security, computer engineering, and reverse engineering. Think of the topic-specific channels as university classrooms. Think of the general channels as an informal place to have constructive conversations with others. If what you would like to say is unacceptable in those environments, it is probably unacceptable here.
+
+5. These rules are by no means comprehensive. We have no interest in and make no effort to define explicit rules. The moderators are members of the primary research group that created this channel and are trusted to exercise their personal judgement. If they are unsure of something, they seek a second opinion from another member or administrator. However, any administrative or moderation action that is taken is to be considered final. They are almost certainly not going to be overruled by you pleading to someone else. If your message was deleted or your account was banned, it was probably due to breaking on of the rules or because of low-quality in nature.
+
+We define low-quality as anything in the spirit of the following: 
+* Intentional attempts to derail conversations by trolling or spamming.
+* Repeatedly asking or attempting to answer questions with low effort or vague responses. If you don't know, don't mislead.
+* Asking if you can ask a question. Of course you can.
+* Unwillingness to engage with critique or criticism or answers that you may not agree with. Constructive conversations are helpful and offer different ideas. This is not meant to be an echo chamber.
+6: Game hacking, cracks, warez, or anything that would be deemed illegal or against discord ToS is NOT allowed. The circumvention of paid software protections is against ToS and generally illegal, this counts as cracks not general RE 
+Image
+While the following guidelines are not strictly enforced, if everyone were to adhere to them, we feel it would create a much more productive environment for everyone.
+
+1. We encourage everyone to participate in the project of creating a culture of rationality and critical thinking within the server. Please politely acknowledge when someone has errors in their reasoning. We would like to reduce the presence of cognitive biases, and logical fallacies as much as possible. Please be thoughtful.
+
+2.  Many come here expecting to take something. Few come here expecting to give something. Even less, both acquire new knowledge while also making an effort to share it with others. If you have learned something valuable from your time here, try and pay it forward by giving someone else the opportunity to have that experience of learning something new or understanding something for the first time. Please be helpful and supportive.
+
+3. While we expect newcomers to read the rules and guidelines, research their question on Google, and try to figure something out for themselves, we know this is not always the case. We understand that you may grow frustrated with people not doing so, but please try to handle situations like these without unnecessarily aggravating anyone. There is a right way and a wrong way to direct people toward these resources. A simple redirection to the appropriate resource may suffice, with a recommendation to research just a bit more prior. Please be kind.
+
+4. Members and users here are busy people and pinging them once asking is plenty - they will see it if their notifications allow. We ask that you not inundate members with pings when not necessary. If they are available they will try to get back to you. Please be considerate.
